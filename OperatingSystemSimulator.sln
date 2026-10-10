@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatingSystemSimulator", "OperatingSystemSimulator\OperatingSystemSimulator.csproj", "{3869C188-9266-4D9F-874D-85A8691AC9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3869C188-9266-4D9F-874D-85A8691AC9AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3869C188-9266-4D9F-874D-85A8691AC9AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3869C188-9266-4D9F-874D-85A8691AC9AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3869C188-9266-4D9F-874D-85A8691AC9AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E18871-F68B-412F-90C9-ADC83AF578A6}
+	EndGlobalSection
+EndGlobal
